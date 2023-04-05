@@ -1,5 +1,11 @@
 package com.comunidadedevspace.taskbeats.models
 
-class Task(val title: String, val description: String) {
+import java.io.Serializable
+
+data class Task(
+    val id: Int,
+    var title: String,
+    var description: String
+    ): Serializable{
 
 }

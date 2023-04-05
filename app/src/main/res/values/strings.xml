@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TaskBeats</string>
+    <string name="task_title">Task Title</string>
+    <string name="hint_add_task_name">Add a name to your task</string>
+    <string name="task_description">Task description</string>
+    <string name="hint_task_description">Add a description to your task</string>
+    <string name="btn_txt_done">Done</string>
 </resources>
